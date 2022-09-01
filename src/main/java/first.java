@@ -4,6 +4,7 @@ public class first {
         System.out.println("new!");
         System.out.println("new2");
         System.out.println("new3");
+        System.out.println("new4");
     }
 
 }
