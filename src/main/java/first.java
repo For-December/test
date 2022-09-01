@@ -3,6 +3,7 @@ public class first {
         System.out.println("hello,world!");
         System.out.println("new!");
         System.out.println("new2");
+        System.out.println("new3");
     }
 
 }
